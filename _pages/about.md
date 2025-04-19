@@ -59,6 +59,96 @@ Yuhuan Lu, Wei Wang, Xiping Hu, Pengpeng Xu, Shengwei Zhou, Ming Cai
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/helios.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HELIOS: Hyper-Relational Schema Modeling from Knowledge Graphs**
+
+Yuhuan Lu, Bangchao Deng, Weijian Yu, Dingqi Yang
+
+**ACMMM, 2023**
+
+[**Paper**](https://doi.org/10.1145/3581783.3612184)
+
+- We propose HELIOS, a hyper-relational schema model designed to subtly learn from hyper-relational schema tuples by capturing not only the correlation between multiple types of a single entity, but also the correlation between types of different entities and relations in a schema tuple.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/hypercl.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding with Hierarchical Ontology**
+
+Yuhuan Lu, Weijian Yu, Xin Jing, Dingqi Yang
+
+**ACL, 2024**
+
+[**Paper**](https://doi.org/10.18653/v1/2024.findings-acl.171)
+
+- We propose a universal contrastive learning framework for hyper-relational KG embeddings (HyperCL), which is flexible to integrate different hyper-relational KG embedding methods and effectively boost their link prediction performance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/dual.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual-View Interaction-Aware Lane Change Prediction for Autonomous Driving**
+
+Yuhuan Lu, Zhen Zhang, Rufan Bai, Han Liu, Wei Wang
+
+**AAAI, 2025**
+
+[**Paper**](https://doi.org/10.1609/aaai.v39i27.35042)
+
+- We propose to incorporate the concept of perceived safety into future interaction modeling and design a dual-view interaction-aware lane change prediction model.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/hypermtp.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Hyper-Relational Interaction Modeling in Multi-Modal Trajectory Prediction for Intelligent Connected Vehicles in Smart Cities**
+
+Yuhuan Lu, Wei Wang, Rufan Bai, Shengwei Zhou, Lalit Garg, Ali Kashif Bashir, Weiwei Jiang, Xiping Hu
+
+**Information Fusion, 2025**
+
+[**Paper**](https://doi.org/10.1016/j.inffus.2024.102682)
+
+- We propose to model the hyper-relational interaction, which incorporates map elements into the inter-agent interaction. To tackle the hyper-relational interaction, we propose a novel Hyper-relational Multi-modal Trajectory Prediction (HyperMTP) approach.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/klep.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Knowledge-Driven Lane Change Prediction for Secure and Reliable Internet of Vehicles**
+
+Yuhuan Lu, Zhen Zhang, Wei Wang, Yiting Zhu, Tiantian Chen, Yasser D Al-Otaibi, Ali Kashif Bashir, Xiping Hu
+
+**IEEE Transactions on Intelligent Transportation Systems, 2025**
+
+[**Paper**](https://doi.org/10.1109/TITS.2025.3526341)
+
+- We propose to employ the knowledge-driven paradigm and design KLEP, a knowledge-driven lane change prediction framework. KLEP incorporates driving knowledge into lane change modeling, presenting the top-down hierarchical cognitive process of drivers when performing lane change maneuvers.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/ttl.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Lane Change Prediction for Autonomous Driving With Transferred Trajectory Interaction**
+
+Yuhuan Lu, Pengpeng Xu, Xinyu Jiang, Ali Kashif Bashir, Thippa Reddy Gadekallu, Wei Wang, Xiping Hu
+
+**IEEE Transactions on Intelligent Transportation Systems, 2025**
+
+[**Paper**](https://doi.org/10.1109/TITS.2025.3542517)
+
+- We present a novel lane change prediction framework using Transformer-based transfer learning. Our design aims to leverage inter-vehicle interactions learned from trajectory data to improve lane-change prediction accuracy.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2025.01* First Prize of Annual Academic Rising Star Award, Guangdong-Hong Kong-Macao Joint Laboratory for Emotional Intelligence and Pervasive Computing
