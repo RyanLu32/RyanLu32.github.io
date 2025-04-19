@@ -16,8 +16,16 @@ My research lies at the intersection of transportation, knowledge representation
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
+- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by TR-C.
+- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
+- *2024.12*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2025.
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by Information Fusion.
+- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2024.
+- *2024.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-CSVT.
+- *2023.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-KDE.
+- *2023.07*: &nbsp;🎉🎉 One paper has been accepted by ACMMM 2023.
 
 # 📝 Publications 
 ## Highlights
@@ -36,19 +44,46 @@ Yuhuan Lu, Dingqi Yang, Pengyang Wang, Paolo Rosso, Philippe Cudre-Mauroux
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/hcagcn.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Vehicle Trajectory Prediction in Connected Environments via Heterogeneous Context-Aware Graph Convolutional Networks**
+
+Yuhuan Lu, Wei Wang, Xiping Hu, Pengpeng Xu, Shengwei Zhou, Ming Cai
+
+**IEEE Transactions on Intelligent Transportation Systems, 2023**
+
+[**Paper**](https://doi.org/10.1109/TITS.2022.3173944)
+
+- We propose a novel Heterogeneous Context-Aware Graph Convolutional Networks following the Encoder-Decoder architecture, which simultaneously extracts the hidden contexts from individual historical trajectories, varying driving scenes, and inter-vehicle interactional behaviors.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01* First Prize of Annual Academic Rising Star Award, Guangdong-Hong Kong-Macao Joint Laboratory for Emotional Intelligence and Pervasive Computing
+- *2024.12* Ultimate Report Award, Southeast University
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021 - 2025*, Doctor of Philosophy, Computer Science, University of Macau, Macao 
+- *2013 - 2017*, Bachelor of Science, Traffic Engineering, Sun Yat-Sen University, Guangzhou, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Academic Services
+## Program Committee
+- Artificial Intelligence for Social Impact Track, AAAI, 2025
+- Web4Good Special Track, WWW, 2025
+- AI and Social Good Special Track, IJCAI, 2025
+
+## Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Intelligent Transportation Systems 
+- IEEE Internet of Things Journal
+- IEEE Transactions on Consumer Electronics
+- Machine Intelligence Research
+- Transportation Research Part C: Emerging Technologies
+- Accident Analysis & Prevention
+- IET Intelligent Transport Systems
+- Transportation Research Record
