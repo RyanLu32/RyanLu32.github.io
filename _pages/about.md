@@ -29,6 +29,7 @@ My research lies at the intersection of transportation, knowledge representation
 
 # 📝 Publications 
 ## Highlights
+\* Co-first author  &nbsp; &nbsp;  # Corresponding author
 <div class='paper-box'><div class='paper-box-image'><img src='images/shinge.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
