@@ -188,6 +188,12 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 - *2017.06* Outstanding Graduate, Sun Yat-Sen University
 
 
+# 💰 Grants
+- Research on Driver Behavior Prediction Theory and Method for Autonomous Logistics Transportation. Yunnan Provincial Key Laboratory Open Project, duration: 2025-2026, **PI**
+- Research on Key Technologies of Real-Time Perception and Intelligent Decision Making for Resilient Cities. FDCT-NSFC Joint Funding Project, duration: 2022-2024, **Key Participant**
+- Basic Theory and Key Technologies of Intelligent Transportation Based on Big Data. Key Project of National Natural Science Foundation of China, duration: 2019-2022, **Key Participant**
+
+
 # 📖 Educations
 - *2021 - 2025*, Doctor of Philosophy, Computer Science, University of Macau, Macao 
 - *2013 - 2017*, Bachelor of Science, Traffic Engineering, Sun Yat-Sen University, Guangzhou, China
