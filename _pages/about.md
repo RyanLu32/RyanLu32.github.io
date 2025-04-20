@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a PhD candidate at the [SKL-IOTSC](https://skliotsc.um.edu.mo/), working under the guidance of Prof. Dingqi Yang. I am also affiliated with the Department of Computer and Information Science at the University of Macau.
 
-My research lies at the intersection of transportation, knowledge representation, and artificial intelligence (AI). I focus on developing algorithms and techniques that enable knowledge-driven transportation systems and autonomous driving. My interests span deep learning, reinforcement learning, and generative AI, with applications in prediction, recognition, decision-making, optimization, and human-machine interaction. To date, I have published over 30 papers in leading AI and intelligent transportation systems (ITS) journals and conferences.
+My research lies at the intersection of artificial intelligence (AI), knowledge representation, transportation, and healthcare. I focus on developing algorithms and techniques that enable knowledge-driven transportation systems and smart healthcare solutions. My interests span deep learning, reinforcement learning, and generative AI, with applications in prediction, recognition, decision-making, planning, and human-machine interaction. To date, I have published over 30 papers in top-tier AI, IOT, transportation, and healthcare journals and conferences.
 
 
 # 🔥 News
