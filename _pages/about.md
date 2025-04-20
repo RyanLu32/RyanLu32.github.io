@@ -194,7 +194,7 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 - Basic Theory and Key Technologies of Intelligent Transportation Based on Big Data. Key Project of National Natural Science Foundation of China, duration: 2019-2022, **Key Participant**
 
 
-# 📖 Educations
+# 📖 Education
 - *2021 - 2025*, Doctor of Philosophy, Computer Science, University of Macau, Macao 
 - *2013 - 2017*, Bachelor of Science, Traffic Engineering, Sun Yat-Sen University, Guangzhou, China
 
