@@ -238,6 +238,6 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 - IEEE Transactions on Consumer Electronics
 - Machine Intelligence Research
 - Transportation Research Part C: Emerging Technologies
-- Accident Analysis & Prevention
+- Accident Analysis and Prevention
 - IET Intelligent Transport Systems
 - Transportation Research Record
