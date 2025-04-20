@@ -198,7 +198,7 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 - [A Deep Generative Approach for Crash Frequency Model With Heterogeneous Imbalanced Data](https://doi.org/10.1016/j.amar.2022.100212), Hongliang Ding, **Yuhuan Lu**, NN Sze, Tiantian Chen, Yanyong Guo, Qinghai Lin, **Analytic Methods in Accident Research, 2022**
 
-- [A Resampling Approach to Disaggregate Analysis of Bus-Involved Crashes Using Panel Data With Excessive Zeros](https://doi.org/10.1016/j.aap.2021.106496), Tiantian Chen, **Yuhuan Lu**, Xiaowen Fu, NN Sze, Hongliang Ding, **Accident Analysis \& Prevention, 2022**
+- [A Resampling Approach to Disaggregate Analysis of Bus-Involved Crashes Using Panel Data With Excessive Zeros](https://doi.org/10.1016/j.aap.2021.106496), Tiantian Chen, **Yuhuan Lu**, Xiaowen Fu, NN Sze, Hongliang Ding, **Accident Analysis & Prevention, 2022**
 
 - [Missing Traffic Data Imputation and Pattern Discovery With A Bayesian Augmented Tensor Factorization Model](https://doi.org/10.1016/j.trc.2019.03.003), Xinyu Chen, Zhaocheng He, Yixian Chen, **Yuhuan Lu**, Jiawei Wang, **Transportation Research Part C: Emerging Technologies, 2019**
 
