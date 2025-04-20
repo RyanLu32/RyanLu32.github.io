@@ -29,7 +29,6 @@ My research lies at the intersection of transportation, knowledge representation
 
 # 📝 Publications 
 ## Highlights
-\* Co-first author  &nbsp; &nbsp;  # Corresponding author
 <div class='paper-box'><div class='paper-box-image'><img src='images/shinge.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -147,6 +146,36 @@ Yuhuan Lu, Pengpeng Xu, Xinyu Jiang, Ali Kashif Bashir, Thippa Reddy Gadekallu, 
 [**Paper**](https://doi.org/10.1109/TITS.2025.3542517)
 
 - We present a novel lane change prediction framework using Transformer-based transfer learning. Our design aims to leverage inter-vehicle interactions learned from trajectory data to improve lane-change prediction accuracy.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/aid.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Automatic Incident Detection Using Edge-Cloud Collaboration Based Deep Learning Scheme for Intelligent Transportation Systems**
+
+Yuhuan Lu, Qinghai Lin, Haiyang Chi, Jin-Yong Chen
+
+**Applied Intelligence, 2023**
+
+[**Paper**](https://doi.org/10.1007/s10489-023-04673-7)
+
+- We propose a novel automatic incident detection paradigm using an edge-cloud collaboration mechanism. In particular, a Spatio-Temporal Variational Digraph Auto-Encoder model is developed to distinguish the incidents in dynamic traffic flows.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/dagnn.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual Attentive Graph Neural Network for Metro Passenger Flow Prediction**
+
+Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
+
+**Neural Computing and Applications, 2021**
+
+[**Paper**](https://doi.org/10.1007/s00521-021-05966-z)
+
+- We develop a novel dual attentive graph neural network that can effectively predict the distribution of metro traffic flow considering the spatial and temporal influences.
 </div>
 </div>
 
