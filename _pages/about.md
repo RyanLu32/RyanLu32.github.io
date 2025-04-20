@@ -77,7 +77,7 @@ Yuhuan Lu, Bangchao Deng, Weijian Yu, Dingqi Yang
 <div class='paper-box'><div class='paper-box-image'><img src='images/hypercl.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding with Hierarchical Ontology**
+**HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding With Hierarchical Ontology**
 
 Yuhuan Lu, Weijian Yu, Xin Jing, Dingqi Yang
 
@@ -180,7 +180,7 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 </div>
 
 ## Other Publications
-- [CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models](https://doi.org/10.1609/aaai.v39i11.33296), Xin Jing, Yichen Jing, **Yuhuan Lu**, Bangchao Deng, Xueqin Chen, Dingqi Yang, **AAAI (Oral), 2025**
+- [CasFT: Future Trend Modeling for Information Popularity Prediction With Dynamic Cues-Driven Diffusion Models](https://doi.org/10.1609/aaai.v39i11.33296), Xin Jing, Yichen Jing, **Yuhuan Lu**, Bangchao Deng, Xueqin Chen, Dingqi Yang, **AAAI (Oral), 2025**
 
 - [Multi-Node Joint Optimization for Fine-Grained Vehicle Trajectory Reconstruction Using Vehicle Appearance and Identity Data](https://doi.org/10.1016/j.trc.2024.104995), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, **Transportation Research Part C: Emerging Technologies, 2025**
 
@@ -188,7 +188,7 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 - [Inter-Intra Cluster Reorganization for Unsupervised Vehicle Re-Identification](https://doi.org/10.1109/TITS.2024.3464585), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, Qiang Lu, **IEEE Transactions on Intelligent Transportation Systems, 2024**
 
-- [Camera-aware Differentiated Clustering with Focal Contrastive Learning for Unsupervised Vehicle Re-Identification](https://doi.org/10.1109/TCSVT.2024.3402109), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, Qiang Lu, **IEEE Transactions on Circuits and Systems for Video Technology, 2024**
+- [Camera-Aware Differentiated Clustering With Focal Contrastive Learning for Unsupervised Vehicle Re-Identification](https://doi.org/10.1109/TCSVT.2024.3402109), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, Qiang Lu, **IEEE Transactions on Circuits and Systems for Video Technology, 2024**
 
 - [A Crash Feature-Based Allocation Method for Boundary Crash Problem in Spatial Analysis of Bicycle Crashes](https://doi.org/10.1016/j.amar.2022.100251), Hongliang Ding, **Yuhuan Lu**, NN Sze, Constantinos Antoniou, Yanyong Guo, **Analytic Methods in Accident Research, 2023**
 
@@ -196,11 +196,11 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 - [Effect of Dockless Bike-Sharing Scheme on the Demand for London Cycle Hire at the Disaggregate Level Using A Deep Learning Approach](https://doi.org/10.1016/j.tra.2022.10.013), Hongliang Ding, **Yuhuan Lu**, NN Sze, Haojie Li, **Transportation Research Part A: Policy and Practice, 2022**
 
-- [A Deep Generative Approach for Crash Frequency Model with Heterogeneous Imbalanced Data](https://doi.org/10.1016/j.amar.2022.100212), Hongliang Ding, **Yuhuan Lu**, NN Sze, Tiantian Chen, Yanyong Guo, Qinghai Lin, **Analytic Methods in Accident Research, 2022**
+- [A Deep Generative Approach for Crash Frequency Model With Heterogeneous Imbalanced Data](https://doi.org/10.1016/j.amar.2022.100212), Hongliang Ding, **Yuhuan Lu**, NN Sze, Tiantian Chen, Yanyong Guo, Qinghai Lin, **Analytic Methods in Accident Research, 2022**
 
-- [A Resampling Approach to Disaggregate Analysis of Bus-Involved Crashes Using Panel Data with Excessive Zeros](https://doi.org/10.1016/j.aap.2021.106496), Tiantian Chen, **Yuhuan Lu**, Xiaowen Fu, NN Sze, Hongliang Ding, **Accident Analysis \& Prevention, 2022**
+- [A Resampling Approach to Disaggregate Analysis of Bus-Involved Crashes Using Panel Data With Excessive Zeros](https://doi.org/10.1016/j.aap.2021.106496), Tiantian Chen, **Yuhuan Lu**, Xiaowen Fu, NN Sze, Hongliang Ding, **Accident Analysis \& Prevention, 2022**
 
-- [Missing Traffic Data Imputation and Pattern Discovery with A Bayesian Augmented Tensor Factorization Model](https://doi.org/10.1016/j.trc.2019.03.003), Xinyu Chen, Zhaocheng He, Yixian Chen, **Yuhuan Lu**, Jiawei Wang, **Transportation Research Part C: Emerging Technologies, 2019**
+- [Missing Traffic Data Imputation and Pattern Discovery With A Bayesian Augmented Tensor Factorization Model](https://doi.org/10.1016/j.trc.2019.03.003), Xinyu Chen, Zhaocheng He, Yixian Chen, **Yuhuan Lu**, Jiawei Wang, **Transportation Research Part C: Emerging Technologies, 2019**
 
 - 
 
