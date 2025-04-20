@@ -202,8 +202,6 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 - [Missing Traffic Data Imputation and Pattern Discovery With A Bayesian Augmented Tensor Factorization Model](https://doi.org/10.1016/j.trc.2019.03.003), Xinyu Chen, Zhaocheng He, Yixian Chen, **Yuhuan Lu**, Jiawei Wang, **Transportation Research Part C: Emerging Technologies, 2019**
 
-- 
-
 
 # 🎖 Honors and Awards
 - *2025.01* First Prize of Annual Academic Rising Star Award, Guangdong-Hong Kong-Macao Joint Laboratory for Emotional Intelligence and Pervasive Computing
