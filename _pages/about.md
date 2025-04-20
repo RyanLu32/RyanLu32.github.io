@@ -179,6 +179,31 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 </div>
 </div>
 
+## Other Publications
+- [CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models](https://doi.org/10.1609/aaai.v39i11.33296), Xin Jing, Yichen Jing, **Yuhuan Lu**, Bangchao Deng, Xueqin Chen, Dingqi Yang, **AAAI (Oral), 2025**
+
+- [Multi-Node Joint Optimization for Fine-Grained Vehicle Trajectory Reconstruction Using Vehicle Appearance and Identity Data](https://doi.org/10.1016/j.trc.2024.104995), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, **Transportation Research Part C: Emerging Technologies, 2025**
+
+- [Spatio-Temporal Attention Based Collaborative Local–Global Learning for Traffic Flow Prediction](https://doi.org/10.1016/j.engappai.2024.109575), Haiyang Chi, **Yuhuan Lu**, Can Xie, Wei Ke, Bidong Chen, **Engineering Applications of Artificial Intelligence, 2025**
+
+- [Inter-Intra Cluster Reorganization for Unsupervised Vehicle Re-Identification](https://doi.org/10.1109/TITS.2024.3464585), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, Qiang Lu, **IEEE Transactions on Intelligent Transportation Systems, 2024**
+
+- [Camera-aware Differentiated Clustering with Focal Contrastive Learning for Unsupervised Vehicle Re-Identification](https://doi.org/10.1109/TCSVT.2024.3402109), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, Qiang Lu, **IEEE Transactions on Circuits and Systems for Video Technology, 2024**
+
+- [A Crash Feature-Based Allocation Method for Boundary Crash Problem in Spatial Analysis of Bicycle Crashes](https://doi.org/10.1016/j.amar.2022.100251), Hongliang Ding, **Yuhuan Lu**, NN Sze, Constantinos Antoniou, Yanyong Guo, **Analytic Methods in Accident Research, 2023**
+
+- [City-Scale Holographic Traffic Flow Data Based on Vehicular Trajectory Resampling](https://doi.org/10.1038/s41597-022-01850-0), Yimin Wang, Yixian Chen, Guilong Li, **Yuhuan Lu**, Zhaocheng He, Zhi Yu, Weiwei Sun, **Scientific Data, 2023**
+
+- [Effect of Dockless Bike-Sharing Scheme on the Demand for London Cycle Hire at the Disaggregate Level Using A Deep Learning Approach](https://doi.org/10.1016/j.tra.2022.10.013), Hongliang Ding, **Yuhuan Lu**, NN Sze, Haojie Li, **Transportation Research Part A: Policy and Practice, 2022**
+
+- [A Deep Generative Approach for Crash Frequency Model with Heterogeneous Imbalanced Data](https://doi.org/10.1016/j.amar.2022.100212), Hongliang Ding, **Yuhuan Lu**, NN Sze, Tiantian Chen, Yanyong Guo, Qinghai Lin, **Analytic Methods in Accident Research, 2022**
+
+- [A Resampling Approach to Disaggregate Analysis of Bus-Involved Crashes Using Panel Data with Excessive Zeros](https://doi.org/10.1016/j.aap.2021.106496), Tiantian Chen, **Yuhuan Lu**, Xiaowen Fu, NN Sze, Hongliang Ding, **Accident Analysis \& Prevention, 2022**
+
+- [Missing Traffic Data Imputation and Pattern Discovery with A Bayesian Augmented Tensor Factorization Model](https://doi.org/10.1016/j.trc.2019.03.003), Xinyu Chen, Zhaocheng He, Yixian Chen, **Yuhuan Lu**, Jiawei Wang, **Transportation Research Part C: Emerging Technologies, 2019**
+
+- 
+
 
 # 🎖 Honors and Awards
 - *2025.01* First Prize of Annual Academic Rising Star Award, Guangdong-Hong Kong-Macao Joint Laboratory for Emotional Intelligence and Pervasive Computing
