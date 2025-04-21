@@ -20,6 +20,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by TR-C.
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted by AAAI 2025.
+- *2024.10*: &nbsp;🎉🎉 One paper has been accepted by EAAI.
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by Information Fusion.
 - *2024.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2024.
