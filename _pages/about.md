@@ -205,6 +205,7 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 
 # 🎖 Honors and Awards
+- *2025.04* Presentation Award of Postgraduate Forum, University of Macau
 - *2025.01* First Prize of Annual Academic Rising Star Award, Guangdong-Hong Kong-Macao Joint Laboratory for Emotional Intelligence and Pervasive Computing
 - *2024.12* Ultimate Report Award, Southeast University
 - *2021.08* UM PhD Assistantship, University of Macau
