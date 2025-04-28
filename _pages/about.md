@@ -16,6 +16,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper has been accepted by BMC Public Health.
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by TR-C.
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
