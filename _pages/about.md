@@ -227,6 +227,7 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 # 📚 Academic Services
 ## Program Committee
+- Main Track, ACMMM, 2025
 - Artificial Intelligence for Social Impact Track, AAAI, 2025
 - Web4Good Special Track, WWW, 2025
 - AI and Social Good Special Track, IJCAI, 2025
