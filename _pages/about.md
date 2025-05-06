@@ -235,7 +235,8 @@ Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 ## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Knowledge and Data Engineering
-- IEEE Transactions on Intelligent Transportation Systems 
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Vehicular Technology
 - IEEE Internet of Things Journal
 - IEEE Transactions on Consumer Electronics
 - Machine Intelligence Research
