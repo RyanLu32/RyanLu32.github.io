@@ -36,7 +36,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 **Schema-Aware Hyper-Relational Knowledge Graph Embeddings for Link Prediction**
 
-Yuhuan Lu, Dingqi Yang, Pengyang Wang, Paolo Rosso, Philippe Cudre-Mauroux
+**Yuhuan Lu**, Dingqi Yang, Pengyang Wang, Paolo Rosso, Philippe Cudre-Mauroux
 
 **IEEE Transactions on Knowledge and Data Engineering, 2024**
 
@@ -51,7 +51,7 @@ Yuhuan Lu, Dingqi Yang, Pengyang Wang, Paolo Rosso, Philippe Cudre-Mauroux
 
 **Vehicle Trajectory Prediction in Connected Environments via Heterogeneous Context-Aware Graph Convolutional Networks**
 
-Yuhuan Lu, Wei Wang, Xiping Hu, Pengpeng Xu, Shengwei Zhou, Ming Cai
+**Yuhuan Lu**, Wei Wang, Xiping Hu, Pengpeng Xu, Shengwei Zhou, Ming Cai
 
 **IEEE Transactions on Intelligent Transportation Systems, 2023**
 
@@ -66,7 +66,7 @@ Yuhuan Lu, Wei Wang, Xiping Hu, Pengpeng Xu, Shengwei Zhou, Ming Cai
 
 **HELIOS: Hyper-Relational Schema Modeling from Knowledge Graphs**
 
-Yuhuan Lu, Bangchao Deng, Weijian Yu, Dingqi Yang
+**Yuhuan Lu**, Bangchao Deng, Weijian Yu, Dingqi Yang
 
 **ACMMM, 2023**
 
@@ -81,7 +81,7 @@ Yuhuan Lu, Bangchao Deng, Weijian Yu, Dingqi Yang
 
 **HyperCL: A Contrastive Learning Framework for Hyper-Relational Knowledge Graph Embedding With Hierarchical Ontology**
 
-Yuhuan Lu, Weijian Yu, Xin Jing, Dingqi Yang
+**Yuhuan Lu**, Weijian Yu, Xin Jing, Dingqi Yang
 
 **ACL, 2024**
 
@@ -96,7 +96,7 @@ Yuhuan Lu, Weijian Yu, Xin Jing, Dingqi Yang
 
 **Dual-View Interaction-Aware Lane Change Prediction for Autonomous Driving**
 
-Yuhuan Lu, Zhen Zhang, Rufan Bai, Han Liu, Wei Wang
+**Yuhuan Lu**, Zhen Zhang, Rufan Bai, Han Liu, Wei Wang
 
 **AAAI, 2025**
 
@@ -111,7 +111,7 @@ Yuhuan Lu, Zhen Zhang, Rufan Bai, Han Liu, Wei Wang
 
 **Hyper-Relational Interaction Modeling in Multi-Modal Trajectory Prediction for Intelligent Connected Vehicles in Smart Cities**
 
-Yuhuan Lu, Wei Wang, Rufan Bai, Shengwei Zhou, Lalit Garg, Ali Kashif Bashir, Weiwei Jiang, Xiping Hu
+**Yuhuan Lu**, Wei Wang, Rufan Bai, Shengwei Zhou, Lalit Garg, Ali Kashif Bashir, Weiwei Jiang, Xiping Hu
 
 **Information Fusion, 2025**
 
@@ -126,7 +126,7 @@ Yuhuan Lu, Wei Wang, Rufan Bai, Shengwei Zhou, Lalit Garg, Ali Kashif Bashir, We
 
 **Knowledge-Driven Lane Change Prediction for Secure and Reliable Internet of Vehicles**
 
-Yuhuan Lu, Zhen Zhang, Wei Wang, Yiting Zhu, Tiantian Chen, Yasser D Al-Otaibi, Ali Kashif Bashir, Xiping Hu
+**Yuhuan Lu**, Zhen Zhang, Wei Wang, Yiting Zhu, Tiantian Chen, Yasser D Al-Otaibi, Ali Kashif Bashir, Xiping Hu
 
 **IEEE Transactions on Intelligent Transportation Systems, 2025**
 
@@ -141,7 +141,7 @@ Yuhuan Lu, Zhen Zhang, Wei Wang, Yiting Zhu, Tiantian Chen, Yasser D Al-Otaibi, 
 
 **Lane Change Prediction for Autonomous Driving With Transferred Trajectory Interaction**
 
-Yuhuan Lu, Pengpeng Xu, Xinyu Jiang, Ali Kashif Bashir, Thippa Reddy Gadekallu, Wei Wang, Xiping Hu
+**Yuhuan Lu**, Pengpeng Xu, Xinyu Jiang, Ali Kashif Bashir, Thippa Reddy Gadekallu, Wei Wang, Xiping Hu
 
 **IEEE Transactions on Intelligent Transportation Systems, 2025**
 
@@ -156,7 +156,7 @@ Yuhuan Lu, Pengpeng Xu, Xinyu Jiang, Ali Kashif Bashir, Thippa Reddy Gadekallu, 
 
 **Automatic Incident Detection Using Edge-Cloud Collaboration Based Deep Learning Scheme for Intelligent Transportation Systems**
 
-Yuhuan Lu, Qinghai Lin, Haiyang Chi, Jin-Yong Chen
+**Yuhuan Lu**, Qinghai Lin, Haiyang Chi, Jin-Yong Chen
 
 **Applied Intelligence, 2023**
 
@@ -171,7 +171,7 @@ Yuhuan Lu, Qinghai Lin, Haiyang Chi, Jin-Yong Chen
 
 **Dual Attentive Graph Neural Network for Metro Passenger Flow Prediction**
 
-Yuhuan Lu, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
+**Yuhuan Lu**, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
 
 **Neural Computing and Applications, 2021**
 
