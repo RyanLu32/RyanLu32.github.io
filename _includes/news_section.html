@@ -1,0 +1,53 @@
+<!-- news_section.html -->
+<section id="news-section">
+  <h2>Latest News</h2>
+  <div class="news-container">
+    <ul class="news-list">
+      <!-- 在此处插入多条新闻项 -->
+      <li class="news-item">新闻标题 1 - <a href="#">阅读全文</a></li>
+      <li class="news-item">新闻标题 2 - <a href="#">阅读全文</a></li>
+      <li class="news-item">新闻标题 3 - <a href="#">阅读全文</a></li>
+      <li class="news-item">新闻标题 4 - <a href="#">阅读全文</a></li>
+      <li class="news-item">新闻标题 5 - <a href="#">阅读全文</a></li>
+      <!-- ... -->
+    </ul>
+  </div>
+</section>
+
+<style>
+  #news-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  .news-container {
+    height: 200px;         
+    overflow-y: auto;     
+    padding-right: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #fff;
+  }
+  .news-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .news-item {
+    padding: 0.75rem;
+    border-bottom: 1px solid #eee;
+  }
+  .news-item:last-child {
+    border-bottom: none;
+  }
+  .news-item a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  .news-item a:hover {
+    text-decoration: underline;
+  }
+</style>
