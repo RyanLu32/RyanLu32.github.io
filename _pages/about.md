@@ -184,6 +184,8 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 </div>
 
 ## Other Publications
+- [Associations of Occupation Categories With Cardiovascular Diseases and All-Cause Mortality: An Analysis of NHANES 2005-2014]([https://doi.org/10.1609/aaai.v39i11.33296](https://doi.org/10.1186/s12889-025-22958-z), Haiyang Chi, Jia Zhou, Chao Li, **Yuhuan Lu**, Can Xie, Baoyu He, Wei Ke, **BMC Public Health, 2025**
+
 - [CasFT: Future Trend Modeling for Information Popularity Prediction With Dynamic Cues-Driven Diffusion Models](https://doi.org/10.1609/aaai.v39i11.33296), Xin Jing, Yichen Jing, **Yuhuan Lu**, Bangchao Deng, Xueqin Chen, Dingqi Yang, **AAAI (Oral), 2025**
 
 - [Multi-Node Joint Optimization for Fine-Grained Vehicle Trajectory Reconstruction Using Vehicle Appearance and Identity Data](https://doi.org/10.1016/j.trc.2024.104995), Mingkai Qiu, **Yuhuan Lu**, Xiying Li, **Transportation Research Part C: Emerging Technologies, 2025**
