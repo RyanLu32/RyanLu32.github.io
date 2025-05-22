@@ -33,6 +33,21 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 # 📝 Publications 
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/hyperfm.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs**
+
+**Yuhuan Lu**, Weijian Yu, Xin Jing, Dingqi Yang
+
+**ACL, 2025**
+
+[**Paper**](https://ryanlu32.github.io/)
+
+- We propose HyperFM, a hyper-relational fact-centric multimodal fusion technique for link prediction tasks over multimodal hyper-relational KGs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/shinge.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
