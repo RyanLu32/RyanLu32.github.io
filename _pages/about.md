@@ -247,10 +247,10 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 # 📚 Academic Services
 ## Program Committee
-- Main Track, ACMMM, 2025
-- Artificial Intelligence for Social Impact Track, AAAI, 2025
-- Web4Good Special Track, WWW, 2025
-- AI and Social Good Special Track, IJCAI, 2025
+- Main Track, ACMMM
+- Artificial Intelligence for Social Impact Track, AAAI
+- Web4Good Special Track, WWW
+- AI and Social Good Special Track, IJCAI
 
 ## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
