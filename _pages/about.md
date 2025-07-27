@@ -43,7 +43,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 **ACL, 2025**
 
-[**Paper**](https://ryanlu32.github.io/)
+[**Paper**](https://aclanthology.org/2025.acl-long.142/)
 
 - We propose HyperFM, a hyper-relational fact-centric multimodal fusion technique for link prediction tasks over multimodal hyper-relational KGs.
 </div>
