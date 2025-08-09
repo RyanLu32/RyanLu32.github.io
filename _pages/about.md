@@ -241,7 +241,8 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 📖 Education
-- *2021 - 2025*, Doctor of Philosophy, Computer Science, University of Macau, Macao 
+- *2021 - 2025*, Doctor of Philosophy, Computer Science, University of Macau, Macao
+- *2017 - 2020*, Master of Science, Transportation Engineering, Sun Yat-Sen University, Guangzhou, China
 - *2013 - 2017*, Bachelor of Science, Traffic Engineering, Sun Yat-Sen University, Guangzhou, China
 
 
