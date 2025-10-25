@@ -201,6 +201,12 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 </div>
 
 ## Other Publications
+- [Dynamic Spatiotemporal Graph Convolutional Network Collaborative Pre-training Learning for Traffic Flow Prediction](https://doi.org/10.1016/j.knosys.2025.114339), Haiyang Chi, **Yuhuan Lu**, Yirong Zhu, Wei Ke, Hanbin Mao, **Knowledge-Based Systems, 2025**
+
+- [SIM-IBN: Surgical Event Time Imputation in Intent-Based Networking for Internet of Medical Things](https://doi.org/10.1109/JIOT.2025.3602104), Yixian Chen, Zhaocheng He, Sen Deng, You Zhou, Ali Kashif Bashir, Norah Saleh Alghamdi, Lin Yao, **Yuhuan Lu**, Wei Wang, **IEEE Internet of Things Journal, 2025**
+
+- [On Your Mark, Get Set, Predict! Modeling Continuous-Time Dynamics of Cascades for Information Popularity Prediction](https://doi.org/10.1109/TKDE.2025.3583129), Xin Jing, Yichen Jing, **Yuhuan Lu**, Bangchao Deng, Sikun Yang, Dingqi Yang, **IEEE Transactions on Knowledge and Data Engineering, 2025**
+
 - [Associations of Occupation Categories With Cardiovascular Diseases and All-Cause Mortality: An Analysis of NHANES 2005-2014](https://doi.org/10.1186/s12889-025-22958-z), Haiyang Chi, Jia Zhou, Chao Li, **Yuhuan Lu**, Can Xie, Baoyu He, Wei Ke, **BMC Public Health, 2025**
 
 - [CasFT: Future Trend Modeling for Information Popularity Prediction With Dynamic Cues-Driven Diffusion Models](https://doi.org/10.1609/aaai.v39i11.33296), Xin Jing, Yichen Jing, **Yuhuan Lu**, Bangchao Deng, Xueqin Chen, Dingqi Yang, **AAAI (Oral), 2025**
