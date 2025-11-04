@@ -16,6 +16,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by IEEE IOTJ.
 - *2025.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-KDE.
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025.
