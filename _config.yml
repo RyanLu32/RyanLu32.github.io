@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhuan Lu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Macau"
-  location         : "Macao"
+  bio              : "Khalifa University"
+  location         : "Abu Dhabi"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bC0iXoYAAAAJ&hl=en"
-  email            : "lu.yuhuan@connect.umac.mo"
+  email            : "ryanlu32@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
