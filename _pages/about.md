@@ -36,6 +36,21 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 # 📝 Publications 
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/KnowLCP.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**KnowLCP: Knowledge Augmented Lane Change Prediction for Autonomous Driving**
+
+**Yuhuan Lu**, Pengpeng Xu, Wei Wang, Zhen Zhang, Han Liu, Xiping Hu
+
+**AAAI, 2026**
+
+[**Paper**](https://aclanthology.org/2025.acl-long.142/)
+
+- We propose KnowLCP, a knowledge-augmented model for joint lane change intention and trajectory prediction.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/hyperfm.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
