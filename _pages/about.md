@@ -66,21 +66,6 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/hcagcn.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Vehicle Trajectory Prediction in Connected Environments via Heterogeneous Context-Aware Graph Convolutional Networks**
-
-**Yuhuan Lu**, Wei Wang, Xiping Hu, Pengpeng Xu, Shengwei Zhou, Ming Cai
-
-**IEEE Transactions on Intelligent Transportation Systems, 2023**
-
-[**Paper**](https://doi.org/10.1109/TITS.2022.3173944)
-
-- We propose a novel Heterogeneous Context-Aware Graph Convolutional Networks following the Encoder-Decoder architecture, which simultaneously extracts the hidden contexts from individual historical trajectories, varying driving scenes, and inter-vehicle interactional behaviors.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/helios.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -126,80 +111,6 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/hypermtp.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Hyper-Relational Interaction Modeling in Multi-Modal Trajectory Prediction for Intelligent Connected Vehicles in Smart Cities**
-
-**Yuhuan Lu**, Wei Wang, Rufan Bai, Shengwei Zhou, Lalit Garg, Ali Kashif Bashir, Weiwei Jiang, Xiping Hu
-
-**Information Fusion, 2025**
-
-[**Paper**](https://doi.org/10.1016/j.inffus.2024.102682)
-
-- We propose to model the hyper-relational interaction, which incorporates map elements into the inter-agent interaction. To tackle the hyper-relational interaction, we propose a novel Hyper-relational Multi-modal Trajectory Prediction (HyperMTP) approach.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/klep.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Knowledge-Driven Lane Change Prediction for Secure and Reliable Internet of Vehicles**
-
-**Yuhuan Lu**, Zhen Zhang, Wei Wang, Yiting Zhu, Tiantian Chen, Yasser D Al-Otaibi, Ali Kashif Bashir, Xiping Hu
-
-**IEEE Transactions on Intelligent Transportation Systems, 2025**
-
-[**Paper**](https://doi.org/10.1109/TITS.2025.3526341)
-
-- We propose to employ the knowledge-driven paradigm and design KLEP, a knowledge-driven lane change prediction framework. KLEP incorporates driving knowledge into lane change modeling, presenting the top-down hierarchical cognitive process of drivers when performing lane change maneuvers.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/ttl.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Lane Change Prediction for Autonomous Driving With Transferred Trajectory Interaction**
-
-**Yuhuan Lu**, Pengpeng Xu, Xinyu Jiang, Ali Kashif Bashir, Thippa Reddy Gadekallu, Wei Wang, Xiping Hu
-
-**IEEE Transactions on Intelligent Transportation Systems, 2025**
-
-[**Paper**](https://doi.org/10.1109/TITS.2025.3542517)
-
-- We present a novel lane change prediction framework using Transformer-based transfer learning. Our design aims to leverage inter-vehicle interactions learned from trajectory data to improve lane-change prediction accuracy.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/aid.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Automatic Incident Detection Using Edge-Cloud Collaboration Based Deep Learning Scheme for Intelligent Transportation Systems**
-
-**Yuhuan Lu**, Qinghai Lin, Haiyang Chi, Jin-Yong Chen
-
-**Applied Intelligence, 2023**
-
-[**Paper**](https://doi.org/10.1007/s10489-023-04673-7)
-
-- We propose a novel automatic incident detection paradigm using an edge-cloud collaboration mechanism. In particular, a Spatio-Temporal Variational Digraph Auto-Encoder model is developed to distinguish the incidents in dynamic traffic flows.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/dagnn.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Dual Attentive Graph Neural Network for Metro Passenger Flow Prediction**
-
-**Yuhuan Lu**, Hongliang Ding, Shiqian Ji, NN Sze, Zhaocheng He
-
-**Neural Computing and Applications, 2021**
-
-[**Paper**](https://doi.org/10.1007/s00521-021-05966-z)
-
-- We develop a novel dual attentive graph neural network that can effectively predict the distribution of metro traffic flow considering the spatial and temporal influences.
-</div>
-</div>
 
 ## Other Publications
 - [Dynamic Spatiotemporal Graph Convolutional Network Collaborative Pre-training Learning for Traffic Flow Prediction](https://doi.org/10.1016/j.knosys.2025.114339), Haiyang Chi, **Yuhuan Lu**, Yirong Zhu, Wei Ke, Hanbin Mao, **Knowledge-Based Systems, 2025**
