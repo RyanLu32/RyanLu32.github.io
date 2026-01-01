@@ -16,7 +16,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 I serve as a **Guest Editor** for a [**Special Issue**](https://aclanthology.org/2025.acl-long.142/) of IEEE IOTJ.
+- *2025.12*: &nbsp;🎉🎉 I serve as a **Guest Editor** for a [**Special Issue**](https://ieee-iotj.org/wp-content/uploads/2025/12/IoT_Enpowered_AI4Science.pdf) of IEEE IOTJ.
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by IEEE IOTJ.
 - *2025.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-KDE.
