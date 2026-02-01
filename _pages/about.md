@@ -185,6 +185,8 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 # 📚 Academic Services
 ## Program Committee
 - Main Track, ICML
+- Main Track, CVPR
+- Main Track, SIGIR
 - Main Track, ACMMM
 - Artificial Intelligence for Social Impact Track, AAAI
 - Web4Good Special Track, WWW
