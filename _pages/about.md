@@ -204,5 +204,5 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 # 👨 Students
 ## Co-Advised
-- Haiyang Chi, PhD 2025 from Macao Polytechnic University, current employment: Associate Professor, Kunming University of Science and Technology
-- Yixian Chen, PhD 2025 from Sun Yat-Sen University, current employment: Assistant Professor, Foshan University
+- Haiyang Chi, PhD 2025 from Macao Polytechnic University, current employment: 
+- Yixian Chen, PhD 2025 from Sun Yat-Sen University, current employment: 
