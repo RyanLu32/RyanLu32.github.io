@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I earned my PhD from [SKL-IOTSC](https://skliotsc.um.edu.mo/).
+I am an incoming Assistant Professor at the Faculty of Applied Sciences, [Macao Polytechnic University](https://www.mpu.edu.mo/en).
 
 My research lies at the intersection of artificial intelligence (AI), knowledge representation, transportation, and healthcare. I focus on developing algorithms and techniques that enable knowledge-driven transportation systems and smart healthcare solutions. My interests span deep learning, reinforcement learning, and generative AI, with applications in prediction, recognition, decision-making, planning, and human-machine interaction. To date, I have published over 30 papers in top-tier AI, IOT, transportation, and healthcare journals and conferences.
 
