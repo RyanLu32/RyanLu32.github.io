@@ -181,6 +181,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 # 📚 Academic Services
 ## Program Committee
+- Main Track, NeurIPS
 - Main Track, ICML
 - Main Track, CVPR
 - Main Track, SIGIR
