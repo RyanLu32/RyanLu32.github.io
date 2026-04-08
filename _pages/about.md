@@ -44,7 +44,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 **AAAI, 2026**
 
-[**Paper**](https://aclanthology.org/2025.acl-long.142/)
+[**Paper**](https://doi.org/10.1609/aaai.v40i45.41244)
 
 - We propose KnowLCP, a knowledge-augmented model for joint lane change intention and trajectory prediction.
 </div>
