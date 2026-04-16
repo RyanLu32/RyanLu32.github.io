@@ -16,7 +16,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 I have served as an International Collaborator on a Japan Science and Technology Agency (JST) CREST project.
+- *2026.04*: &nbsp;🎉🎉 I have served as an International Collaborator on a JST CREST project.
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by WWW 2026.
@@ -160,6 +160,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🎖 Honors and Awards
+- *2026.04* International Collaborator, JST CREST Project
 - *2025.04* Presentation Award of Postgraduate Forum, University of Macau
 - *2025.01* First Prize of Annual Academic Rising Star Award, Guangdong-Hong Kong-Macao Joint Laboratory for Emotional Intelligence and Pervasive Computing
 - *2024.12* Ultimate Report Award, Southeast University
