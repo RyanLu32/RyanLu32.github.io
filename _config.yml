@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhuan Lu"
-description              : "PhD holder. Focused on AI and knowledge representation."
+description              : "Assistant Professor"
 repository               : "RyanLu32/RyanLu32.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhuan Lu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Khalifa University"
-  location         : "Abu Dhabi"
+  bio              : "Macao Polytechnic University"
+  location         : "Macao"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bC0iXoYAAAAJ&hl=en"
