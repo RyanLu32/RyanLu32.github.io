@@ -132,7 +132,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 **KnowMTP: A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving**
 
-Rufan Bai, Tianyi Xue, Tiantian Zhou, Weiwei Wu, Changle Li, **Yuhuan Lu***
+Rufan Bai, Tianyi Xue, Tiantian Zhou, Weiwei Wu, Changle Li, **Yuhuan Lu\***
 
 **CVPR, 2026**
 
