@@ -127,6 +127,21 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/knowmtp.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**KnowMTP: A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving**
+
+Rufan Bai, Tianyi Xue, Tiantian Zhou, Weiwei Wu, Changle Li, **Yuhuan Lu***
+
+**CVPR, 2026**
+
+[**Paper**](https://doi.org/10.1609/aaai.v39i27.35042)
+
+- We present KnowMTP, a knowledge-guided framework for MTP that integrates driving safety and behavioral knowledge to reorganize input data intelligently.
+</div>
+</div>
+
 
 ## Other Publications
 - [How Accurate Should Prediction Be for Connected Autonomous Vehicles at Blind Intersections?](https://doi.org/10.1109/TITS.2026.3675358), Lu Tao, Yousuke Watanabe, Shen Ying, Yuhuan Lu, Zhengshu Zhou, Hiroaki Takada, **IEEE Transactions on Intelligent Transportation Systems, 2026**
