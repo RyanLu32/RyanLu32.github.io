@@ -129,6 +129,10 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 ## Other Publications
+- [How Accurate Should Prediction Be for Connected Autonomous Vehicles at Blind Intersections?](https://doi.org/10.1109/TITS.2026.3675358), Lu Tao, Yousuke Watanabe, Shen Ying, Yuhuan Lu, Zhengshu Zhou, Hiroaki Takada, **IEEE Transactions on Intelligent Transportation Systems, 2026**
+
+- [Modeling Multimodal Information Cascade on Social Media with Interpretable Mixture of Experts](https://doi.org/10.1145/3774904.3793030), Xin Jing, Zeyu Shi, Zhangtao Cheng, Yichen Jing, Yuhuan Lu, Bangchao Deng, Dingqi Yang, **WWW, 2026**
+
 - [Dynamic Spatiotemporal Graph Convolutional Network Collaborative Pre-training Learning for Traffic Flow Prediction](https://doi.org/10.1016/j.knosys.2025.114339), Haiyang Chi, **Yuhuan Lu**, Yirong Zhu, Wei Ke, Hanbin Mao, **Knowledge-Based Systems, 2025**
 
 - [SIM-IBN: Surgical Event Time Imputation in Intent-Based Networking for Internet of Medical Things](https://doi.org/10.1109/JIOT.2025.3602104), Yixian Chen, Zhaocheng He, Sen Deng, You Zhou, Ali Kashif Bashir, Norah Saleh Alghamdi, Lin Yao, **Yuhuan Lu**, Wei Wang, **IEEE Internet of Things Journal, 2025**
