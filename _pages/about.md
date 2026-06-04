@@ -16,6 +16,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 I have joined the editorial board of [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394) as an **Associate Editor**.
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026.
 - *2026.04*: &nbsp;🎉🎉 I have served as an International Collaborator on a JST CREST project.
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-ITS.
