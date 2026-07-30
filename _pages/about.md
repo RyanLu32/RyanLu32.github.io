@@ -233,5 +233,5 @@ Rufan Bai, Tianyi Xue, Tiantian Zhou, Weiwei Wu, Changle Li, **Yuhuan Lu\***
 
 # 👨 Students
 ## Co-Advised
-- Haiyang Chi, PhD 2025 from Macao Polytechnic University, current employment: Assistant Researcher (助理研究员), Chongqing University (重庆大学)
-- Yixian Chen, PhD 2025 from Sun Yat-Sen University, current employment: Assistant Professor (助理教授), Foshan University (佛山大学)
+- Haiyang Chi, PhD 2025 from Macao Polytechnic University, current employment: Assistant Researcher (助理研究員), Chongqing University (重慶大學)
+- Yixian Chen, PhD 2025 from Sun Yat-Sen University, current employment: Assistant Professor (助理教授), Foshan University (佛山大學)
