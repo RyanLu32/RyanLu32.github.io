@@ -16,6 +16,7 @@ My research lies at the intersection of artificial intelligence (AI), knowledge 
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 One paper has been accepted by IEEE IOTJ.
 - *2026.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE T-AFFC.
 - *2026.08*: &nbsp;🎉🎉 One paper has been accepted by TR-C.
 - *2026.07*: &nbsp;🎉🎉 I delivered a talk at the Harbin Institute of Technology (哈爾濱工業大學).
